@@ -22,7 +22,7 @@ Le portfolio présente :
   Description des stages et missions effectués dans les domaines du support informatique, de la supervision industrielle et du développement.
 
 * **Formation académique**
-  Détails de mon parcours universitaire, du DUT GEII au Bachelor Développeur Web & Applications à l’EFREI Paris.
+  Détails de mon parcours universitaire.
 
 * **Projets**
   Présentation de différents projets réalisés, allant du développement web à la programmation embarquée.
@@ -30,11 +30,11 @@ Le portfolio présente :
 * **Compétences techniques et outils**
   Liste des langages, frameworks et logiciels que je maîtrise.
 
-* **Langues et soft skills**
-  Compétences linguistiques et qualités personnelles.
+* **Langues **
+  Compétences linguistiques.
 
 * **Contact**
-  Liens vers mon email, mon profil LinkedIn et mon compte GitHub.
+  Liens vers mon profil LinkedIn et mon compte GitHub.
 
 ---
 
